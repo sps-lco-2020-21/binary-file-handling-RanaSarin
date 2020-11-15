@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulation.App", "ImageManipulation.App\ImageManipulation.App.csproj", "{51DAA688-BE5D-4A56-ACD2-BF316A8E3DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DAA688-BE5D-4A56-ACD2-BF316A8E3DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DAA688-BE5D-4A56-ACD2-BF316A8E3DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DAA688-BE5D-4A56-ACD2-BF316A8E3DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DAA688-BE5D-4A56-ACD2-BF316A8E3DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7872E2-FCA0-41F0-B2E7-B288FE5ADF7A}
+	EndGlobalSection
+EndGlobal
